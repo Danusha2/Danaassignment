@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "581434086480",
+    "project_id": "dana-assignment",
+    "storage_bucket": "dana-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581434086480:android:e7aa827c0b94d68949ad55",
+        "android_client_info": {
+          "package_name": "com.example.danaassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581434086480-mq3ar61st992ju4kg716rdgkjdlllbph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danaassignment",
+            "certificate_hash": "098b8cd0c1b68159439f30e4c89c2d01b3ffc06b"
+          }
+        },
+        {
+          "client_id": "581434086480-diqp6aomjicnscdd140thegpa99arhpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5rr5EWP4vv_XZQGfYGWgNF8nvOOtZp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581434086480-diqp6aomjicnscdd140thegpa99arhpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
